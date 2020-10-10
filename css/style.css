@@ -1,0 +1,32 @@
+.portfolio {
+    padding-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0 30px;
+    justify-content: center;
+}
+
+
+.copyright {
+    text-align: center;
+}
+
+.card {
+    margin: 20px;
+    min-height: 300px;
+    min-width: 400px;
+}
+
+
+.socialIcons {
+    padding-bottom: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.socials {
+    margin: 20px;
+    display: block;
+}
